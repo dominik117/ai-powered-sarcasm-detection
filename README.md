@@ -1,15 +1,11 @@
-# Project Name
+# AI Powered Sarcasm Detector Using NLP
+by Valeriia Rutskaia and Dominik Bacher
 
-example image:
-
-
-![alternative text](reports/img/pic01.jpg)
+![alternative text](https://imgflip.com/i/6kqonp)
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
-
-## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+## Project Objective
+Create an AI model which predcits if a news headline is being sarcastic or not based on the dataset collected from TheOnion and HuffPost.
 
 ### Partner
 * [Name of Partner organization/Government department etc..]
