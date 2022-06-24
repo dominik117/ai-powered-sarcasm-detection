@@ -1,4 +1,4 @@
-# AI Powered Sarcasm Detector Using NLP
+# AI Powered Sarcasm Detection Using NLP
 by Valeriia Rutskaia and Dominik Bacher
 
 ![alternative text](https://i.imgflip.com/6kqonp.jpg)
