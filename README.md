@@ -1,7 +1,7 @@
 # AI Powered Sarcasm Detection Using NLP
 by Valeriia Rutskaia and Dominik Bacher
 
-![alternative text](https://i.imgflip.com/6kqonp.jpg)
+
 
 
 ## Project Objective
@@ -66,3 +66,5 @@ create another "setup.md" file and link to it here*
 
  - [Full Name](https://github.com/[github handle])
  - [Full Name](https://github.com/[github handle])
+ 
+ ![alternative text](https://i.imgflip.com/6kqonp.jpg)
