@@ -17,5 +17,7 @@ Create an AI model which predcits if a news headline is being sarcastic or not b
 ### Technologies
 * Python
 * Pandas, jupyter
+* Machine learning
+* NLP
 
  ![alternative text](https://i.imgflip.com/6kqonp.jpg)
